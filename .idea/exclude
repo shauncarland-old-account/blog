@@ -47,7 +47,7 @@ bower.json
 .byebug_history
 
 # User-specific stuff:
-.idea
+.idea/
 
 # End of https://www.gitignore.io/api/rails
 
